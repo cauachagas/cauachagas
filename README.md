@@ -4,7 +4,7 @@
 
 Sou um Geocientista com paixão por linguagens der programação. Gosto do Python e seus inúmeros pacotes, mas sou casado com uma linguagem Julia por conta da sua performance. Possuo experiência em Modelagem Matemática, Inversão da Forma de Onda Completa, Processamento Digital de Imagens. Freelancer formatando trabalhos acadêmicos em LaTeX. Ajudei no desenvolvimento do Limarka, uma ferramenta que transforma documentos em Markdown em PDF conforme normas da ABNT. Curiosidade e vontade de aprender novas ferramentas e tecnologias. 
 
-Atualmente estou buscando aperfeiçoamento em tecnologias para desenvolvimento Web. Em 2021, planejo constantemente atualizar meu Github e criar um blog (Talves com um template pronto com Hugo ou Next.js)
+Atualmente estou buscando aperfeiçoamento em tecnologias para desenvolvimento Web. Em 2021, planejo constantemente atualizar meu Github e criar um blog (Talvez com um template pronto com Hugo ou Next.js)
 
 
 
@@ -27,6 +27,7 @@ Atualmente estou buscando aperfeiçoamento em tecnologias para desenvolvimento W
 <a href="https://julialang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/22x22/apps/julia.svg" alt="julia" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://jupyter.org/" target="_blank"> <img src="https://jupyter.org/assets/main-logo.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
