@@ -1,4 +1,9 @@
-# Olá, mundo 👋. Meu nome é Cauã
+# Olá, mundo 
+
+![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) 
+
+## Meu nome é Cauã 
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
 ![cauachagas](https://komarev.com/ghpvc/?username=cauachagas&label=Visualização%20do%20Perfil&color=0e75b6&style=plastic)
 
@@ -16,7 +21,12 @@ Atualmente estou buscando aperfeiçoamento em tecnologias para desenvolvimento W
 
 - 📄 Minha carreira acadêmica na plataforma [lattes](http://lattes.cnpq.br/1045414178246229)
 
-## Linguagens e Ferramentas que uso ou já usei
+
+Se conecte comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p align = 'center'>
+
+### Linguagens e Ferramentas que uso ou já usei <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
+<p align = 'center'>
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -39,7 +49,8 @@ Atualmente estou buscando aperfeiçoamento em tecnologias para desenvolvimento W
 <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
 </p>
 
-## Estátisticas
+### Estátisticas <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> 
+
 
 [![trofeus](https://github-profile-trophy.vercel.app/?username=cauachagas)](https://github.com/cauachagas/github-profile-trophy)
 
