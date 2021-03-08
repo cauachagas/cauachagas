@@ -17,13 +17,15 @@ Atualmente estou buscando aperfeiçoamento em tecnologias para desenvolvimento W
 
 - 🌱 Atualmente apredendo **React, Next.js, Node.js e Rails**
 
-- 📫 Como me encontrar **caua.geof@gmail.com**
-
 - 📄 Minha carreira acadêmica na plataforma [lattes](http://lattes.cnpq.br/1045414178246229)
 
 
 Se conecte comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
+
+[![Linkedin Badge](https://img.shields.io/static/v1?message=caua-chagas-santos&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/caua-chagas-santos/) 
+[![Gmail Badge](https://img.shields.io/static/v1?message=caua.geof@gmail.com&logo=gmail&labelColor=C14438&color=C14438&logoColor=white&label=%20)](mailto:caua.geof@gmail.com)
+
 
 ### Linguagens e Ferramentas que uso ou já usei <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
 <p align = 'center'>
