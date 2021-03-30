@@ -15,7 +15,7 @@ Atualmente estou buscando aperfeiçoamento em tecnologias para desenvolvimento W
 
 - 🔭 Atualmente estou trabalhando no [Limarka](https://github.com/abntex/limarka)
 
-- 🌱 Atualmente apredendo **React, Next.js, Node.js e Rails**
+- 🌱 Atualmente apredendo **React, Node.js, Flask e Django**
 
 - 📄 Minha carreira acadêmica na plataforma [lattes](http://lattes.cnpq.br/1045414178246229)
 
