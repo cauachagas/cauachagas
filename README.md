@@ -7,29 +7,39 @@
 
 ![cauachagas](https://komarev.com/ghpvc/?username=cauachagas&label=Visualização%20do%20Perfil&color=0e75b6&style=plastic)
 
-Sempre curioso e com vontade de aprender sobre novas ferramentas e tecnologias. Atualmente estou buscando aperfeiçoamento em tecnologias para  desenvolvimento Web. 
+Trabalho principalmente com desenvolvimento Web, focado mais no Back-end e cultura DevOps. Tenho experiência Automação de testes; Design de Software.
 
-Geocientista com paixão por linguagens der programação. Gosto do Python e seus inúmeros pacotes, mas sou casado com a linguagem Julia por conta da sua performance. 
+Possuo experiência em Modelagem Matemática, Inversão da Forma de Onda Completa (Full Waveform Inversion), Processamento Digital de Imagens.
 
-Possuo experiência em Modelagem Matemática, Inversão da Forma de Onda Completa (Full Waveform Inversion), Processamento Digital de Imagens. Freelancer formatando trabalhos acadêmicos em LaTeX. Ajudei no desenvolvimento do Limarka, uma ferramenta que transforma documentos em Markdown em PDF conforme as normas da ABNT.
+ Backend
+  - Linguagens: Python, Java, TypeScript;
+  - APIs: REST, GraphQL;
+  - SQL: SQLServer, PostgreSQL, SQLite;
+  - NoSQL: MongoDB, DynamoDB;
+  - Arquitetura: Clean Architecture, Hexagonal, MVC
+  - Frameworks: Django, Flask, FastAPI, SpringBoot, NestJS
+  - Unit Testing Framework: PyTest, JUnit, Jest
 
-Fiquei algum tempo parado, mas, nesse ano de 2021, planejo constantemente atualizar meu Github e criar um blog (Talvez com um template pronto com Hugo ou Next.js)
+DevOps
+  - Versionamento de código: Git;
+  - CI/CD: GitHub Actions, Jenkins
+  - Conteinerização: Docker, Docker Compose
+  - Cloud: Google Cloud Platform (GCP)
+  - Infra as Code (IaC): Terraform
+  - Monitoramento: Grafana
 
+FrontEnd:
+  - Framework: (React (NextJS)
 
-- 👯 Coloboro em projetos LaTeX [Limarka](https://github.com/abntex/limarka), [abnTeX2](https://github.com/abntex/limarka)
-
-- 🌱 Atualmente apredendo **React, Node.js, Flask e Django**
-
-- 📄 Minha carreira acadêmica na plataforma [lattes](http://lattes.cnpq.br/1045414178246229)
 
 
 Se conecte comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align = 'center'>
 
-[![Linkedin Badge](https://img.shields.io/static/v1?message=caua-chagas-santos&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/caua-chagas-santos/) 
-[![Gmail Badge](https://img.shields.io/static/v1?message=caua.geof@gmail.com&logo=gmail&labelColor=C14438&color=C14438&logoColor=white&label=%20)](mailto:caua.geof@gmail.com)
+[![Linkedin Badge](https://img.shields.io/static/v1?message=cauachagas&logo=linkedin&labelColor=1182c3&color=1182c3&logoColor=white&label=%20)](https://www.linkedin.com/in/cauachagas) 
+[![Gmail Badge](https://img.shields.io/static/v1?message=caua.santos.dev@gmail.com&logo=gmail&labelColor=C14438&color=C14438&logoColor=white&label=%20)](mailto:caua.santos.dev@gmail.com)
 
-
+<!---
 ### Linguagens e Ferramentas que uso ou já usei <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
 
 <p align="left">
@@ -58,6 +68,7 @@ Se conecte comigo <img src='https://raw.githubusercontent.com/ShahriarShafin/Sha
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
 </p>
+--->
 
 ### Estátisticas <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> 
 
